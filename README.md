@@ -7,7 +7,7 @@ This repository contains my solutions to various LeetCode problems.
 | #   | Title                     | Difficulty | Date Completed |
 | --- | ------------------------- | ---------- | -------------- |
 | 11  | Container With Most Water | Medium     | 10/23/2025     |
-|     |                           |            |                |
+| 15  | 3 Sum                     | Medium     | 10/23/2025     |
 |     |                           |            |                |
 
 ## Directory Structure
