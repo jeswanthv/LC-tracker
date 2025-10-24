@@ -4,11 +4,11 @@ This repository contains my solutions to various LeetCode problems.
 
 ## Problems Completed
 
-| #   | Title                     | Difficulty | Date Completed |
-| --- | ------------------------- | ---------- | -------------- |
-| 11  | Container With Most Water | Medium     | 10/23/2025     |
-| 15  | 3 Sum                     | Medium     | 10/23/2025     |
-|     |                           |            |                |
+| #   | Title                              | Difficulty | Date Completed |
+| --- | ---------------------------------- | ---------- | -------------- |
+| 11  | Container With Most Water          | Medium     | 10/23/2025     |
+| 15  | 3 Sum                              | Medium     | 10/23/2025     |
+| 122 | Best Time to Buy and Sell Stock II | Medium     | 10/23/2025     |
 
 ## Directory Structure
 
